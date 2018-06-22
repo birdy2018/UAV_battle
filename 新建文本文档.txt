@@ -1,0 +1,4 @@
+cd F:\HaiKang\project\uav_py_fusai_attack_v4new
+f:
+python main.py 47.94.164.59 31583 89acfacc-f803-453c-ab9e-1bdef84015f4
+
